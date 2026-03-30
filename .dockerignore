@@ -1,0 +1,31 @@
+# Git metadata
+.git/
+.gitignore
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and local config
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Docker artifacts
+Dockerfile*
+
+# QR output (generated artifacts)
+qr_codes/
